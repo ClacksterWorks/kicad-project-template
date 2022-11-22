@@ -1,3 +1,3 @@
-# PCB
+# PCB Library
 
-KiCAD project files can be found here. Change this document as needed.
+KiCAD library files can be found here. Change this document as needed.

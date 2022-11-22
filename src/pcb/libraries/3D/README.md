@@ -1,3 +1,3 @@
-# PCB
+# PCB 3D
 
-KiCAD project files can be found here. Change this document as needed.
+Project 3D files can be found here. Change this document as needed.

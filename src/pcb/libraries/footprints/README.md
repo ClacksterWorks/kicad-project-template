@@ -1,3 +1,3 @@
-# PCB
+# PCB Footprints
 
-KiCAD project files can be found here. Change this document as needed.
+Project footprint files can be found here. Change this document as needed.

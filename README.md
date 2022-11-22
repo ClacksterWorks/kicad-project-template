@@ -9,7 +9,7 @@ A simple project template that can be pulled into any Github project. The basic 
 * `src` - All project source files
   * `firmware` - All firmware source files
   * `pcb` - All KiCAD source files
-    * `exports` - Exported files for external use can be found here
+    * `exports` - Exported files for external use
       * `gerbers` - PCB gerbers can be found here
       * `bom` - Bill of materials can be found here
     * `libraries` - All PCB library files
